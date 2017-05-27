@@ -1,4 +1,4 @@
-## 5分鐘製作 <span color="f48024">Markdown</span> Powerpoint
+## 5分鐘製作 <span style=" color: #f48024">Markdown</span> Powerpoint
 
 講者：Calpa
 
@@ -8,9 +8,9 @@
 
 +++
 
-- 自學Web前端程序員
-- 香港科技大學化學工程三年級學生 |
-- 曾經參加過 6次 Hackathon |
+- 自學 <span style=" color: #f48024">Web</span> 前端程序員
+- 香港科技大學化學工程三年級學生
+- 曾經參加過 6次 Hackathon
 - 技術博客: https://calpa.me
 
 ---
