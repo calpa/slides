@@ -25,6 +25,12 @@ Apache OpenOffice Impress
 
 ---
 
+### Now
+
+#### <span style="letter-spacing: 0.1em; color: #e49436; text-transform:none">Git<span style="color:white">Pitch</span></span>
+
+---
+
 #### 前置技能
 
 - Github
@@ -34,6 +40,8 @@ Apache OpenOffice Impress
 
 #### Github
 
+<img src="http://i.imgur.com/Riz9ctd.png" height="200" width="200" />
+
 ---
 
 #### Markdown
@@ -42,6 +50,10 @@ Apache OpenOffice Impress
 
 #### Markdown語法
 
++++
+
+##### 標題
+
 # h1
 ## h2
 ### h3
@@ -55,18 +67,11 @@ Apache OpenOffice Impress
 #### h4
 ##### h5
 ```
-
----
-
-
-### Now
-
----
-
-#### GitPitch
-
 ---
 
 #### Fin?
 
+博客鏈接
 https://calpa.me
+
+<img src="https://calpa.me/img/qrcode.png" height="200" width="200" />
