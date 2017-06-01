@@ -69,6 +69,30 @@ Apache OpenOffice Impress
 ```
 ---
 
+#### <span style="letter-spacing: 0.1em; color: #e49436; text-transform:none">Git<span style="color:white">Pitch</span></span>
+
++++
+
+![Imgur](http://i.imgur.com/HqSHVOy.png)
+
++++
+
+![Imgur](http://i.imgur.com/ZwDgHFr.png)
+
++++
+
+![Imgur](http://i.imgur.com/RLV4Ut0.png)
+
++++
+
+![Imgur](http://i.imgur.com/uOoSrMa.png)
+
++++
+#### GitPitch Slideshow URL
+
+https://gitpitch.com/user/repo
+
+---
 #### Fin?
 
 博客鏈接
